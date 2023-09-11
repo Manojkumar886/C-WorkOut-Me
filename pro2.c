@@ -11,7 +11,7 @@ void main()
     // puts(Skillset);
 
     fgets(Skillset,sizeof(Skillset),stdin);//file get string -fgets
-    puts(Skillset);
+    fputs(Skillset,stdout);
 
 
 }
