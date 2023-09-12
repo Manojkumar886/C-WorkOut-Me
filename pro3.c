@@ -11,6 +11,4 @@ void main()
     scanf("%s \n %d",&studentName,&studentAge);
     sprintf(collectall,"my name is : %s \n my age is : %d \n",studentName,studentAge);
     printf("collect all details %s",collectall);
-
-
 }
